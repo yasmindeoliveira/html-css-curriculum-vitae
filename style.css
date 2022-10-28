@@ -2,7 +2,7 @@
     background-color: lightgray;
 }
 
-div img {
+.head img {
     width: 150px;
     height: 150px;
     display: block;
@@ -10,22 +10,26 @@ div img {
     margin-right: auto;
 }
 
-div h1 {
+.head h1 {
     text-align: center;
 }
 
-div hr {
+.head hr {
     border-top: 2px solid rgb(190, 146, 0);
 }
 
-h2 {
+.body hr{
+    border-top: 1px solid rgb(190, 146, 0);
+}
+
+.body h2 {
     color: rgb(190, 146, 0);
 }
 
-h3 {
+.body h3 {
     font-style: italic;
 }
 
-.foot {
+.foot p {
     text-align: center;
 }
