@@ -15,5 +15,17 @@ div h1 {
 }
 
 div hr {
-    border-top: 2px solid gold;
+    border-top: 2px solid rgb(190, 146, 0);
+}
+
+h2 {
+    color: rgb(190, 146, 0);
+}
+
+h3 {
+    font-style: italic;
+}
+
+.foot {
+    text-align: center;
 }
