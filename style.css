@@ -33,3 +33,9 @@
 .foot p {
     text-align: center;
 }
+
+body {
+    display: block;
+    margin-left: 400px;
+    margin-right: 400px;
+}
